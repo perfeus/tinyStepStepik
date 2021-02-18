@@ -1,0 +1,23 @@
+[
+  {
+    "clientDay": "Вторник",
+    "clientName": "katy",
+    "clientPhone": "+7 913 939 8833",
+    "clientTeacher": "0",
+    "clientTime": "8:00"
+  },
+  {
+    "clientDay": "Вторник",
+    "clientName": "Bob",
+    "clientPhone": "+7 915 383 83 93",
+    "clientTeacher": "0",
+    "clientTime": "8:00"
+  },
+  {
+    "clientDay": "Понедельник",
+    "clientName": "kutay",
+    "clientPhone": "8 933 757 29 29",
+    "clientTeacher": "0",
+    "clientTime": "10:00"
+  }
+]
